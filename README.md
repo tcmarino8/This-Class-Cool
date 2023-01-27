@@ -2,4 +2,5 @@
 My work from physics 188
 
 
-Lets see what happens when I change this in Homework 1
+This homework, Homework 1 is talking about bayes rule. Esenttially getting us to understand this likelihood and prior and posterior. Just a set up assignment for the rest of bayesian statistics
+
